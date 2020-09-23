@@ -1,8 +1,8 @@
 # Sloppy Noto
 
-Sloppy Noto turns raw numeric data from space probes into raw audio.
+Sloppy Noto converts raw numeric data from space probes into raw audio signals.
 
-While Sloppy Noto can convert any csv-like data files containing large quantities of numeric data, it was created primarily to create audio from the raw datasets of various space missions of [European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov).
+While Sloppy Noto can convert any csv-like data files containing large quantities of numeric data, it was created primarily to produce audio files out of the raw datasets of various space missions of [European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov).
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
@@ -11,7 +11,7 @@ Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), us
 
 ### Audio Demos
 
-Audio | Source | Data description | 
+Audio | Source | Converted from data | 
 ------------ | ------------ | ------------- |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_twflfr_bkezue.wav)  | [ESA](https://esa.int) | Photometric bands of flux-time pairs for given objects, bands and times measuring light curves, from Gaia space observatory. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_zzdwul_dixcmw.wav) | [NASA](https://nasa.gov) | Wave electric field intensity data from the Plasma Wave instrument on Voyager 2 from the Jupiter encounter. |
