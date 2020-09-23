@@ -2,7 +2,7 @@
 
 Sloppy Noto turns raw numeric data from space probes into raw audio.
 
-While Sloppy Noto should work with any csv-like data files containing large quantities of numeric data, it was created primarily to create audio from the raw datasets of various space missions of [European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov).
+While Sloppy Noto can convert any csv-like data files containing large quantities of numeric data, it was created primarily to create audio from the raw datasets of various space missions of [European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov).
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
