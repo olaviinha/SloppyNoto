@@ -17,7 +17,7 @@ Audio | Source | Data description |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_zzdwul_dixcmw.wav) | [NASA](https://nasa.gov) | Wave electric field intensity data from the Plasma Wave instrument on Voyager 2 from the Jupiter encounter. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_twflfr_qlyglj.wav)  | [ESA](https://esa.int) | Vega magnitude and band flux value for the transit of flux-time pairs for given objects, bands and times measuring light curves, from Gaia space observatory. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate data from the Energetic Particle experiment on Voyager 2 from the Saturn near encounter. |
-[WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_ojrvyn_dvvksj.wav)| [HSY](https://hsy.fi) | Air quality measurements collected using Aeromon BH-12 measurement devices installed on trams from Helsinki. |
+[WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_ojrvyn_dvvksj.wav)| [HSY](https://hsy.fi) | Air quality measurements collected using Aeromon BH-12 measurement devices installed on trams in Helsinki. |
 
 ### Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
