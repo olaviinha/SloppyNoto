@@ -6,10 +6,10 @@ While Sloppy Noto should work with any csv-like data files containing large quan
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-## Run in Google Colaboratory
+### Run in Google Colaboratory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
-## Audio Demos
+### Audio Demos
 
 Audio | Source | Data description | 
 ------------ | ------------ | ------------- |
@@ -18,7 +18,7 @@ Audio | Source | Data description |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_twflfr_qlyglj.wav)  | [ESA](https://esa.int) | Vega magnitude and band flux value for the transit of flux-time pairs for given objects, bands and times measuring light curves, from Gaia space observatory. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate data from the Energetic Particle experiment on Voyager 2 from the Saturn near encounter. |
 
-## Some dataset archives to get started
+### Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
 - [ESAC Science Data Centre](https://www.cosmos.esa.int/web/esdc)
 - [NASA Planetary Data System](https://pds.nasa.gov/)
