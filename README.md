@@ -19,6 +19,6 @@ Audio | Source | Data description |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate data from the Energetic Particle experiment on VOYAGER 2 from the Saturn near encounter. |
 
 ## Some dataset archives to get started
-- [ESA Planetary Science Arvhive](https://archives.esac.esa.int/psa/#!Table%20View)
+- [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
 - [ESAC Science Data Centre](https://www.cosmos.esa.int/web/esdc)
 - [NASA Planetary Data System](https://pds.nasa.gov/)
