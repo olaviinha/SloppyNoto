@@ -1,10 +1,10 @@
 # Sloppy Noto
 
-Sloppy Noto turns data from space probes into raw audio.
+Sloppy Noto turns data from space probes into audio.
 
-While Sloppy Noto can interpret any csv-like data files containing large quantities of numeric data, it was created primarily to produce audio files out of the raw datasets of various space missions by [The European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov). 
+While Sloppy Noto can interpret any csv-like data files containing large quantities of numeric data, it was created primarily to produce audio files out of the raw datasets of various space missions by [The European Space Agency](https://www.esa.int/), [The National Aeronautics and Space Administration](https://nasa.gov), etc.
 
-**🚫 Noto does not** oscillate or generate sound waves based on given data by other means, modify any such waves, or take artistic freedoms.
+**🚫 Noto does not** oscillate or generate sound waves by other means _based_ on given data, modify any such waves, or take artistic freedoms.
 
 **✅ Noto does** interpret given series of numbers directly as digital audio signal sample magnitudes. _What you see is what you hear._
 
@@ -23,6 +23,8 @@ Audio | Source | Description of data used |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_zzdwul_dixcmw.wav) | [NASA](https://nasa.gov) | Wave electric field intensity data from the Plasma Wave instrument on Voyager 2 from the Jupiter encounter. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate from the Energetic Particle experiment on Voyager 2 from the Saturn near encounter. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_dcubtb_bozeyk.wav)| [HSY](https://hsy.fi) | Air quality of Helsinki from Aeromon BH-12 on moving trams. |
+[WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_bdwqbh_smuwaa.wav)| [ESA](https://esa.int), [JAXA](https://global.jaxa.jp) | Imu Meas SC ang rate Z of AOCS Gyros and IMU on BepiColombo. |
+
 
 
 
