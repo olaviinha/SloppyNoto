@@ -10,10 +10,9 @@ While Sloppy Noto can interpret any csv-like data files containing large quantit
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-## Run in Google Colaboratory
-- [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
-
+## Run Sloppy Noto in Google Colaboratory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
+- [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
 ## Audio Demos
 
@@ -28,10 +27,9 @@ Audio | Source | Description of data used |
 ### FTP crawler utility
 As the name suggests, this notebook is a utility for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server.
 
-Run in Google Colaboratory: 
-- [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
-
+#### Run FTP crawler in Google Colaboratory: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
+- [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
 
 ### Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
