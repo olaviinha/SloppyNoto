@@ -23,13 +23,13 @@ Audio | Source | Description of data used |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate from the Energetic Particle experiment on Voyager 2 from the Saturn near encounter. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_dcubtb_bozeyk.wav)| [HSY](https://hsy.fi) | Air quality of Helsinki from Aeromon BH-12 on moving trams. |
 
-### FTP crawler utility
+## FTP crawler utility
 As the name suggests, this notebook is a utility for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server.
 
 #### Run FTP crawler in Google Colaboratory: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
 
-### Some dataset archives to get started
+## Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
 - [ESAC Science Data Centre](https://www.cosmos.esa.int/web/esdc)
 - [NASA Planetary Data System](https://pds.nasa.gov/)
