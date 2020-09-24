@@ -15,7 +15,7 @@ Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), us
 
 ### Audio Demos
 
-Audio | Source | Converted from data | 
+Audio | Source | Description of data used | 
 ------------ | ------------ | ------------- |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_twflfr_bkezue.wav)  | [ESA](https://esa.int) | Photometric bands of flux-time pairs for given objects, bands and times measuring light curves, from Gaia space observatory. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_zzdwul_dixcmw.wav) | [NASA](https://nasa.gov) | Wave electric field intensity data from the Plasma Wave instrument on Voyager 2 from the Jupiter encounter. |
