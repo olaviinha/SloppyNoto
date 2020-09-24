@@ -12,7 +12,6 @@ Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), us
 
 ## Run Sloppy Noto in Google Colaboratory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
-- [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
 ## Audio Demos
 
@@ -29,7 +28,6 @@ As the name suggests, this notebook is a utility for finding suitable data file 
 
 #### Run FTP crawler in Google Colaboratory: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
-- [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
 
 ### Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
