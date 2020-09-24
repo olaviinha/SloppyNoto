@@ -1,10 +1,10 @@
 # Sloppy Noto
 
-Sloppy Noto turns raw numeric data from space probes into audio.
+Sloppy Noto turns data from space probes into raw audio.
 
 While Sloppy Noto can interpret any csv-like data files containing large quantities of numeric data, it was created primarily to produce audio files out of the raw datasets of various space missions by [The European Space Agency](https://www.esa.int/) and [The National Aeronautics and Space Administration](https://nasa.gov). 
 
-**🚫 Noto does not** oscillate or generate sound waves based on given data, modify any such waves, take artistc freedoms.
+**🚫 Noto does not** oscillate or generate sound waves based on given data, modify any such waves, take artistic freedoms.
 
 **✅ Noto does** interpret given series of numbers directly as a digital audio signal sample magnitudes. _What you see is what you hear._
 
