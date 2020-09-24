@@ -10,10 +10,12 @@ While Sloppy Noto can interpret any csv-like data files containing large quantit
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-### Run in Google Colaboratory
+## Run in Google Colaboratory
+- [sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
-### Audio Demos
+## Audio Demos
 
 Audio | Source | Description of data used | 
 ------------ | ------------ | ------------- |
@@ -22,6 +24,14 @@ Audio | Source | Description of data used |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_twflfr_qlyglj.wav)  | [ESA](https://esa.int) | Vega magnitude and band flux value for the transit of flux-time pairs for given objects, bands and times measuring light curves, from Gaia space observatory. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_hoqvxl_llofij.wav) | [NASA](https://nasa.gov) | High intensity high energy proton, ion, and electron counting rate from the Energetic Particle experiment on Voyager 2 from the Saturn near encounter. |
 [WAV](https://storage.googleapis.com/olaviinha/github/sloppy-noto/noto_dcubtb_bozeyk.wav)| [HSY](https://hsy.fi) | Air quality of Helsinki from Aeromon BH-12 on moving trams. |
+
+### FTP crawler utility
+As the name suggests, this notebook is a utility for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server.
+
+Run in Google Colaboratory: 
+- [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
 
 ### Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
