@@ -27,7 +27,7 @@ Audio | Source | Description of data used |
 
 
 ## FTP crawler utility
-As the name suggests, ftp_crawler.ipynb is a utility notebook for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server.
+As the name suggests, [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb) is a utility notebook for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server.
 
 #### Run FTP crawler in Google Colaboratory: 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
