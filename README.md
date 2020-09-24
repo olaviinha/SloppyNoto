@@ -6,7 +6,7 @@ While Sloppy Noto can interpret any csv-like data files containing large quantit
 
 **🚫 Noto does not** oscillate or generate sound waves based on given data, modify any such waves, take artistic freedoms.
 
-**✅ Noto does** interpret given series of numbers directly as a digital audio signal sample magnitudes. _What you see is what you hear._
+**✅ Noto does** interpret given series of numbers directly as digital audio signal sample magnitudes. _What you see is what you hear._
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
