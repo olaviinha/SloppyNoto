@@ -1,6 +1,6 @@
 # Sloppy Noto Data Audiolizer
 
-Sloppy Noto turns data (e.g. from space probes) into sound.
+Sloppy Noto turns data into sound.
 
 - **Noto does not** 🚫 oscillate or generate sound waves by other means _based_ on given data, modify any such waves, or take artistic liberties.
 
