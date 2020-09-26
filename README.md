@@ -1,6 +1,6 @@
-# Sloppy Noto Data Audiolizer
+# Sloppy Noto
 
-Sloppy Noto turns numeric data into sound.
+Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
 - **Noto does not** 🚫 oscillate or generate sound waves by other means _based_ on given data, modify any such waves, or take artistic liberties.
 
