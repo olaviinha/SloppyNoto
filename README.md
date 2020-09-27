@@ -29,11 +29,11 @@ Audio | Source | Description of converted data |
 
 
 
-## FTP crawler utility
-As the name suggests, [ftp_crawler.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb) is a utility notebook for finding suitable data file candidates for audio conversion. It lists all files of 5+ MB recursively from a set directory on an FTP server, ordering them by size range (1+ GB, 0,5-1 GB, 100-500 MB, etc.)
+## Data Crawlers utility
+[crawlers.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb) is a data crawling utility notebook for finding suitable data file candidates for data to audio conversion more easily. It contains HTTP Crawler, FTP Crawler and ZIP Crawler, each listing files recursively from a URL, making educated guesses of what might work.
 
-#### Run FTP crawler in Google Colaboratory: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/ftp_crawler.ipynb)
+#### Run Data Crawlers in Google Colaboratory: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb)
 
 ## Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
