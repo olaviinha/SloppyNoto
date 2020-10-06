@@ -42,3 +42,7 @@ Audio | Source | Description of converted data |
 - [ESAC Science Data Centre](https://www.cosmos.esa.int/web/esdc)
 - [NASA Planetary Data System](https://pds.nasa.gov/)
 - [NASA Open Data Portal](https://data.nasa.gov/browse)
+
+---
+
+**DO NOT DONATE.** It is illegal for a Finnish citizen to plea for donations, and a donate button in the interwebs is considered as such plea in Finland. So, please **DO NOT** send any donations to [my Paypal](https://paypal.me/oinha) to cover any development related expenses, **especially** if you find these tools useful and want to show support. I repeat: **DO NOT DONATE.**
