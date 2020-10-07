@@ -33,10 +33,11 @@ Audio | Source | Description of converted data |
 
 
 ## Data Crawlers utility
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb)
+
 [crawlers.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb) is a data crawling utility notebook for finding suitable data file candidates for data to audio conversion from online data archives. It contains an HTTP Crawler, an FTP Crawler and a ZIP Crawler, each listing files recursively from a URL, making educated guesses on what might work, based on file extensions and sizes.
 
-#### Run Data Crawlers in Google Colaboratory: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb)
+⇨ [Run crawlers.ipynb in Google Colaboratory](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/crawlers.ipynb)
 
 ## Some dataset archives to get started
 - [ESA Planetary Science Archive](https://archives.esac.esa.int/psa/#!Table%20View)
