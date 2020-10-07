@@ -1,5 +1,7 @@
 # Sloppy Noto
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
+
 Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
 - Noto **does not** 🚫 oscillate or generate sound waves by other means _based_ on given data, modify any such waves, or take artistic liberties.
@@ -12,8 +14,7 @@ Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.l
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-## Run Sloppy Noto in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
+⇨ [Run sloppyNoto.ipynb in Google Colaboratory](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
 ## Audio Demos
 
