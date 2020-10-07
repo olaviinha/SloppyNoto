@@ -10,9 +10,9 @@ Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
 While Sloppy Noto can interpret any delimiter-separated values format containing large quantities of numeric data (44100 rows = 1 second of audio), as well as some other formats, it was created primarily to produce audio files out of the raw datasets of various space probes by The [European Space Agency](https://www.esa.int/) and The [National Aeronautics and Space Administration](https://nasa.gov).
 
-Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.lst`, `.asc`, `.log`, `.xls`, `.xlsx`, `.json`. Archive files `.zip`, `.tar`, `.gz` also work as long as there is a single file inside, and that file is one of previously mentioned types.
+Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.lst`, `.asc`, `.log`, `.xls`, `.xlsx`, `.json`, `.xml`, `.kml`, `.kmz`. Archive files `.zip`, `.tar`, `.gz` also work as long as there is a single file inside, that is also suitable for Noto to read.
 
-Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
+Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com) (i.e. your browser), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
 ⇨ [Run sloppyNoto.ipynb in Google Colaboratory](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
 
