@@ -8,7 +8,7 @@ Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
 While Sloppy Noto can interpret any delimiter-separated values format containing large quantities* of numeric data, as well as some other formats, it was created primarily to produce audio files out of the raw datasets of various space probes by The [European Space Agency](https://www.esa.int/) and The [National Aeronautics and Space Administration](https://nasa.gov).
 
-*) 1 second of audio with the default sample rate of 44100 Hz, will require 44100 rows of numbers.
+Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.lst`, `.asc`, `.log`, `.xls`, `.xlsx`, `.json`. Archive files `.zip`, `.tar`, `.gz` also work as long as there is a single file inside (one of previously mentioned types).
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
