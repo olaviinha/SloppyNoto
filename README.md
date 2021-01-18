@@ -14,7 +14,7 @@ Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.l
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com) (i.e. your browser), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-⇨ [Run sloppyNoto.ipynb](https://colab.research.google.com/github/olaviinha/SloppyNoto/blob/master/sloppyNoto.ipynb)
+Perma URL: https://audiolize.space
 
 ## Audio Demos
 
