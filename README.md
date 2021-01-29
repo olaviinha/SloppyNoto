@@ -14,7 +14,7 @@ Suitable file types include (but are not limited to) `.csv`, `.tsv`, `.tab`, `.l
 
 Sloppy Noto runs in [Google Colaboratory](https://colab.research.google.com) (i.e. your browser), using your [Google Drive](https://drive.google.com/drive/my-drive) as data source and/or storage.
 
-You can also access the notebook using address: https://audiolize.space
+You can access the notebook also by using address: https://audiolize.space
 
 ## Audio Demos
 
