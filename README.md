@@ -6,7 +6,7 @@ Sloppy Noto is a data audiolizer. It turns numeric data into sound.
 
 - 🚫 Noto **does not** oscillate or generate sound waves by other means _based_ on given data, modify any such waves, or take artistic liberties.
 
-- ✅ Noto **does** interpret given series of numbers directly as digital audio signal sample magnitudes. _What you see is what you hear._
+- ✅ Noto **does** interpret given series of numbers directly as digital audio signal sample magnitudes by rescale and interpolation. _What you see is what you hear._
 
 Sloppy Noto was initially created to produce audio files from the raw data of various instruments in The [European Space Agency](https://www.esa.int/)'s and The [National Aeronautics and Space Administration](https://nasa.gov)'s space probes. Noto is, however, capable of interpreting any delimiter-separated values format containing large quantities of numeric data (44100 rows of data = 1 second of audio by default settings).
 
